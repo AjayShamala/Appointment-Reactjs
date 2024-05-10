@@ -1,0 +1,29 @@
+.list-container {
+  list-style-type: none;
+  border-style: solid;
+  border-color: #b5b7c4;
+  border-radius: 10px;
+  border-width: 2px;
+  width: 40%;
+  margin: 30px;
+}
+.container {
+  display: flex;
+
+  justify-content: space-between;
+
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.para {
+  color: #b5b7c4;
+}
+.button {
+  border-width: 0px;
+}
+.main-heading {
+  color: #171f46;
+  font-family: 'Roboto';
+  font-size: 20px;
+}
